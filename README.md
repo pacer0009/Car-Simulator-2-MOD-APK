@@ -31,7 +31,8 @@ As you explore the world, you'll come across various missions and challenges tha
 
 Money makes the world go 'round in Car Simulator 2, and there are plenty of ways to earn it. Completing missions, winning races, and exploring the world can all net you cash rewards that you can use to buy new cars, upgrade your existing vehicles, and customize your ride to your heart's content.
 
+
 ## Conclusion
 
-And there you have it – a beginner's guide to Car Simulator 2! With these basics under your belt, you're ready to hit the road and start your journey towards becoming a skilled virtual driver. So buckle up, rev your engines, and get ready for the ride of your life!
+And there you have it – a beginner's guide to Car Simulator 2! With these basics under your belt, you're ready to hit the road and start your journey towards becoming a skilled virtual driver. So buckle up, rev your engines, and get ready for the ride of your life! For more details visit [google docs](https://docs.google.com/document/d/e/2PACX-1vSNaewhZUAJFe906uH5mwlyVFJf2QZdasiMEq6JBhn2JvvLcBVN7h5F3xxQVvHGfucbNQDpNalPZlpO/pub) file.
 
